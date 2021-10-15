@@ -1,6 +1,8 @@
 # debo_eyu
 
 A new Flutter project.
+Any one who want to contact me, use my email eyosimar524@gmail.com or on my telegram account using @LindaAug1
+
 
 let's see the output of this app
 
@@ -45,3 +47,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Any one who want to contact me, use my email eyosimar524@gmail.com or on my telegram account using @LindaAug1
+
